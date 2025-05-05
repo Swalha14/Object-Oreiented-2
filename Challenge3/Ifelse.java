@@ -1,3 +1,5 @@
+package Challenge3;
+
 public class Ifelse {
     public char grade;
 
