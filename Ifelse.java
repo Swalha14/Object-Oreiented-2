@@ -5,9 +5,7 @@ public class Ifelse {
         this.grade = grade;
     }
 
-    public char getGrade() {
-        return grade;
-    }
+
 
     void checkGrade() {
         if (grade == 'A') {
