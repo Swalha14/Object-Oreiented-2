@@ -1,3 +1,5 @@
+package Challenge2;
+
 public class Variables {
     void showInterest(){
         double amount;
