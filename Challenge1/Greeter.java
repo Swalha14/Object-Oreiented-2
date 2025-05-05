@@ -1,3 +1,5 @@
+package Challenge1;
+
 public class Greeter {
         void greet() {
             System.out.println("Hi there");
